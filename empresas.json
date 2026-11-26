@@ -1,0 +1,66 @@
+{
+  "unidad": "millones de euros (salvo empleados)",
+  "aviso": "Empresas ficticias creadas para la práctica. Cifras inventadas pero coherentes entre sí.",
+  "empresas": {
+    "textil_atlantico": {
+      "nombre": "Textil Atlántico S.A.",
+      "sector": "Moda y distribución",
+      "cuentas": {
+        "2023": {
+          "ingresos": 4200, "coste_ventas": 1890, "ebitda": 1050, "amortizaciones": 380,
+          "ebit": 670, "gastos_financieros": 20, "impuestos": 162, "beneficio_neto": 488,
+          "activo_total": 5200, "activo_corriente": 2300, "existencias": 700, "efectivo": 1100,
+          "pasivo_corriente": 1500, "patrimonio_neto": 2900, "deuda_financiera": 400,
+          "dividendos": 250, "empleados": 18500
+        },
+        "2024": {
+          "ingresos": 4600, "coste_ventas": 2000, "ebitda": 1200, "amortizaciones": 400,
+          "ebit": 800, "gastos_financieros": 18, "impuestos": 196, "beneficio_neto": 586,
+          "activo_total": 5700, "activo_corriente": 2600, "existencias": 760, "efectivo": 1300,
+          "pasivo_corriente": 1600, "patrimonio_neto": 3200, "deuda_financiera": 380,
+          "dividendos": 300, "empleados": 19800
+        }
+      }
+    },
+    "energia_meseta": {
+      "nombre": "Energía Meseta S.A.",
+      "sector": "Energías renovables",
+      "cuentas": {
+        "2023": {
+          "ingresos": 1800, "coste_ventas": 720, "ebitda": 990, "amortizaciones": 450,
+          "ebit": 540, "gastos_financieros": 210, "impuestos": 82, "beneficio_neto": 248,
+          "activo_total": 9800, "activo_corriente": 900, "existencias": 60, "efectivo": 400,
+          "pasivo_corriente": 1000, "patrimonio_neto": 3100, "deuda_financiera": 5200,
+          "dividendos": 120, "empleados": 2100
+        },
+        "2024": {
+          "ingresos": 1650, "coste_ventas": 700, "ebitda": 880, "amortizaciones": 470,
+          "ebit": 410, "gastos_financieros": 230, "impuestos": 45, "beneficio_neto": 135,
+          "activo_total": 10400, "activo_corriente": 850, "existencias": 55, "efectivo": 350,
+          "pasivo_corriente": 1150, "patrimonio_neto": 3150, "deuda_financiera": 5800,
+          "dividendos": 120, "empleados": 2250
+        }
+      }
+    },
+    "hoteles_brisa": {
+      "nombre": "Hoteles Brisa S.A.",
+      "sector": "Hostelería y turismo",
+      "cuentas": {
+        "2023": {
+          "ingresos": 1300, "coste_ventas": 520, "ebitda": 330, "amortizaciones": 140,
+          "ebit": 190, "gastos_financieros": 60, "impuestos": 32, "beneficio_neto": 98,
+          "activo_total": 3600, "activo_corriente": 420, "existencias": 25, "efectivo": 180,
+          "pasivo_corriente": 610, "patrimonio_neto": 1350, "deuda_financiera": 1500,
+          "dividendos": 0, "empleados": 9400
+        },
+        "2024": {
+          "ingresos": 1520, "coste_ventas": 590, "ebitda": 410, "amortizaciones": 150,
+          "ebit": 260, "gastos_financieros": 55, "impuestos": 51, "beneficio_neto": 154,
+          "activo_total": 3750, "activo_corriente": 480, "existencias": 28, "efectivo": 230,
+          "pasivo_corriente": 640, "patrimonio_neto": 1480, "deuda_financiera": 1350,
+          "dividendos": 40, "empleados": 10100
+        }
+      }
+    }
+  }
+}
